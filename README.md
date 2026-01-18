@@ -4,10 +4,6 @@ All Chemistry elements in this project also have atomis mass,atomic number and s
 
 
 <html>
-<style>
-table, th, td {
-  border:1px solid black;
-}</style>
 <body>
 
 <u><center><h2>Chemistry Table</h2></u>
