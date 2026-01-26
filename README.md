@@ -63,9 +63,9 @@ All Chemistry elements in this project also have atomic mass,atomic number and s
 <td>16g</td>
 </tr>
 <tr>
-<td>Fluorin</td>
+<td>Fluorium</td>
 <td>9</td>
-<td>Fl</td>
+<td>F</td>
 <td>19g</td>
 </tr>
 <tr>
