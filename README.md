@@ -723,5 +723,5 @@ All Chemistry elements in this project also have atomic mass,atomic number and s
 </tr>
 </table>
 </body>
-<b><marquee>Created by <b><u>Sourin Pramanick</b></u></marquee></b></body>
+<marquee><b>Created by <b><u>Sourin Pramanick</b></u></marquee></b></body>
 </html>
