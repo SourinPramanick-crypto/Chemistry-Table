@@ -723,5 +723,31 @@ All Chemistry elements in this project also have atomic mass,atomic number and s
 </tr>
 </table>
 </body>
-<marquee><b>Created by <b><u>Sourin Pramanick</b></u></marquee></b></body>
+<div class="scroll-text">
+  Created by Sourin Pramanick
+</div>
+
+<style>
+.scroll-text {
+  white-space: nowrap;
+  overflow: hidden;
+  width: 100%;
+}
+
+.scroll-text::after {
+  content: "Created by Sourin Pramanick";
+  display: inline-block;
+  padding-left: 100%;
+  animation: scroll 10s linear infinite;
+}
+
+@keyframes scroll {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
+</style>
 </html>
